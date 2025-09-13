@@ -7,4 +7,4 @@ I'm a BS Computer Science student, aspiring to be a full stack developer
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AthenaVillarin6/)
 
 ## About me
-📂 Visit my [Portfolio](https://athenavillarin.github.io./) for more details about me
+📂 Visit my [Portfolio](https://athenavillarin.github.io) for more details about me
